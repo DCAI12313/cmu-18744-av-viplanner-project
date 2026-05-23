@@ -15,3 +15,17 @@ Helped validate a hybrid navigation system that reduced collision rate from 100%
 
 How can someone see results? screenshots/video/report.
 What tech stack did you use?
+
+
+
+
+## Media
+
+### System Architecture
+![System Architecture](media/system_architecture.png)
+
+### Evaluation Results
+![Evaluation Table](media/evaluation_table.png)
+
+### Demo
+![Navigation Demo](media/demo_navigation.gif)
