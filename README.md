@@ -93,9 +93,6 @@ This is a portfolio repo, not the original upstream codebase.
 
 
 ### Demo
-![Navigation Demo](media/demo_navigation.mp4)
-
-
 
 (Available demo videos:)
 
@@ -117,5 +114,3 @@ This is a portfolio repo, not the original upstream codebase.
 This repository is a portfolio summary of our CMU 18-744 course project. 
 The original development fork was maintained by a teammate at JiaoZA01/viplanner. 
 This repo summarizes the system, results, media, final report, and my contributions.
-
-(This README is written to make the project easier for recruiters, classmates, and reviewers to understand without needing to inspect the full source code first.)
