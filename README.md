@@ -3,7 +3,7 @@
 
 ## Overview
 
-CMU 18-744 autonomous vehicle project: hybrid ViPlanner + D* Lite navigation in Isaac Sim
+CMU 18-744 autonomous vehicle project: hybrid ViPlanner + D* Lite navigation in Isaac Sim.
 This repository is a portfolio page for our CMU 18-744 Autonomous Vehicle project. The project extended the ViPlanner framework (forked from leggedrobotics/viplanner and modified orignally from  JiaoZA01/viplanner) with a hybrid neuro-symbolic navigation pipeline using D* Lite fallback planning, trajectory checking, occupancy-grid validation, and simulation testing in NVIDIA Isaac Sim. The original development fork was maintained at JiaoZA01/viplanner; this portfolio repo summarizes the project, results, and my contributions.
 
 ## Project Context
