@@ -85,17 +85,17 @@ This is a portfolio repo, not the original upstream codebase.
 ### System Architecture
 ![System Architecture](media/system_architecture.jpg)
 
-(Note: your uploaded file appears to be named `system_architecture.jpg`, so this image link should eventually be changed to `media/system_architecture.jpg` unless you rename the file to `system_architecture.png`.)
+
 
 ### Evaluation Results
 ![Evaluation Table](media/evaluation_table.jpg)
 
-(Note: I do not currently see `evaluation_table.png` in your media folder. You can either upload a screenshot named `evaluation_table.png`, or replace this with a table written directly in Markdown.)
+
 
 ### Demo
-![Navigation Demo](media/demo_navigation.gif)
+![Navigation Demo](media/demo_navigation.mp4)
 
-(Note: your current demo files are `.mp4`, not `.gif`. GitHub Markdown usually links MP4 files better as normal links instead of image embeds. Example links can be added below.)
+
 
 (Available demo videos:)
 
